@@ -1,0 +1,14 @@
+git branch
+git checkout
+git pull
+git push
+git branch -D
+git merge
+git log
+git status
+git add
+git restore
+git reset
+git fetch
+git commit
+git reset HEAD^
