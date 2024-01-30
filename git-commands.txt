@@ -3,7 +3,7 @@ git checkout
 git pull
 git push
 git branch -D
-git merge
+git merge dflkgjkfdjkgjdf
 git log
 git status
 git add
